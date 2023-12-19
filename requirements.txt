@@ -1,0 +1,7 @@
+tensorflow[and-cuda]
+pydot
+graphviz
+matplotlib
+numpy
+opencv-python
+scipy
